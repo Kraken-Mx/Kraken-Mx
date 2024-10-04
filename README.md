@@ -5,9 +5,9 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:50faaa,100:fa50e3&height=120&section=footer"/>
+<!--<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:50faaa,100:fa50e3&height=120&section=footer"/>
+-->
 
-- 
 <img width=100% src="space2.jpg"/>
 
 ####
@@ -88,7 +88,6 @@
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=jquery"width="40" height="40" alt="jQuery" />
-      
       <br>jQuery
     </td>
   </tr>
