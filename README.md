@@ -11,6 +11,38 @@
 <img width=100% src="space2.jpg"/>
 
 ####
+<!-- EJEMPLO PARA USAR CLASS="ROW" EN VEZ DE UNA TABLA -->
+  <div class="card-body">
+      <div class="row">
+          <div class="col-12 col-sm-6 col-md-4 col-lg-4">
+              <label for="fecha_inicial" class="col-form-label text-start">Fecha inicial</label>
+              <input class="form-control" type="date" v-model="form.fecha_inicial" required>
+          </div>
+          <div class="col-12 col-sm-6 col-md-4 col-lg-4">
+              <label for="fecha_final" class="col-form-label text-start">Fecha final</label>
+              <input class="form-control" type="date" v-model="form.fecha_final" required>
+          </div>
+          <div class="col-12 col-sm-6 col-md-4 col-lg-4">
+              <label for="idUser" class="form-label">Usuario</label>
+              <select class="form-select" name="idUser" id="idUser" v-model="form.user" required>
+                  <option value="">Selecciona una opción...</option>
+                  <option v-for="(user, index) in users" :key="index" :value="user.ID_USUARIO">{{user.NOMBRE_USUARIO}}
+                  </option>
+              </select>
+          </div>
+      </div>
+      <div class="row mt-2">
+          <div class="mb-3 row">
+              <div class="col-sm" style="text-align: right;">
+                  <button type="button" name="clean" id="clean" class="btn btn-danger me-2" onclick="cleanFilter()">Limpiar Filtros</button>
+                  <button type="button" name="filtra" id="filtra" class="btn btn-success me-2" onclick="filtrarLista()">Filtrar</button>
+              </div>
+          </div>
+      </div>
+    </div>
+    
+
+####
 <table>
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
