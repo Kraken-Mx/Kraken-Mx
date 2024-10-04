@@ -12,19 +12,19 @@
 
 ####
 <!-- EJEMPLO PARA USAR CLASS="ROW" EN VEZ DE UNA TABLA -->
-  <div class="card-body">
-      <div class="row">
-          <div class="col-12 col-sm-6 col-md-4 col-lg-4">
-              <label for="fecha_inicial" class="col-form-label text-start">Fecha inicial</label>
-              <input class="form-control" type="date" v-model="form.fecha_inicial" required>
-          </div>
-          <div class="col-12 col-sm-6 col-md-4 col-lg-4">
-              <label for="fecha_final" class="col-form-label text-start">Fecha final</label>
-              <input class="form-control" type="date" v-model="form.fecha_final" required>
-          </div>
-          <div class="col-12 col-sm-6 col-md-4 col-lg-4">
-              <label for="idUser" class="form-label">Usuario</label>
-              <select class="form-select" name="idUser" id="idUser" v-model="form.user" required>
+<div class="card-body">
+    <div class="row">
+        <div class="col-12 col-sm-6 col-md-4 col-lg-4">
+            <label for="fecha_inicial" class="col-form-label text-start">Fecha inicial</label>
+            <input class="form-control" type="date" v-model="form.fecha_inicial" required>
+        </div>
+        <div class="col-12 col-sm-6 col-md-4 col-lg-4">
+            <label for="fecha_final" class="col-form-label text-start">Fecha final</label>
+            <input class="form-control" type="date" v-model="form.fecha_final" required>
+        </div>
+        <div class="col-12 col-sm-6 col-md-4 col-lg-4">
+            <label for="idUser" class="form-label">Usuario</label>
+            <select class="form-select" name="idUser" id="idUser" v-model="form.user" required>
                   <option value="">Selecciona una opción...</option>
                   <option v-for="(user, index) in users" :key="index" :value="user.ID_USUARIO">{{user.NOMBRE_USUARIO}}
                   </option>
