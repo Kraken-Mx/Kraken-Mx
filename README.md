@@ -11,10 +11,19 @@
 -->
 <!--<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:50faaa,100:fa50e3&height=120&section=footer"/>
 -->
-
 <img width=100% src="space2.jpg"/>
 
 ####
+
+<div class="card-body">
+    <div class="row">
+        <div class="col-12 col-sm-6 col-md-4 col-lg-4">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="40" height="40" />
+        <br>React
+        </div>
+    </div>
+</div>
+
 <!-- EJEMPLO PARA USAR CLASS="ROW" EN VEZ DE UNA TABLA 
 <div class="card-body">
     <div class="row">
