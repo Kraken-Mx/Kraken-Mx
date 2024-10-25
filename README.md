@@ -1,3 +1,5 @@
+<img width=100% src="release-radar-sept24.png"/>
+
 - 😎 Hey guys!!! I’m @Kraken-Mx 😎 
 - 👀 I’m interested in AI, machine learning & deep learning. 
 - 🌱 I’m currently learning JavaScript frameworks, especially Vue.js & React.js.
