@@ -14,7 +14,7 @@
 <img width=100% src="space2.jpg"/>
 
 ####
-
+<!--
 <div class="card-body">
     <div class="row">
         <div class="col-12 col-sm-6 col-md-4 col-lg-4">
@@ -23,7 +23,7 @@
         </div>
     </div>
 </div>
-
+-->
 <!-- EJEMPLO PARA USAR CLASS="ROW" EN VEZ DE UNA TABLA 
 <div class="card-body">
     <div class="row">
@@ -56,7 +56,7 @@
    --> 
 
 ####
-<table>
+<table style="overflow-x:auto;">
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
@@ -178,7 +178,7 @@
     </td>
  </tr>
 </table>
-<br><br>
+<br>
 </table>
 
 <!---
