@@ -178,11 +178,10 @@
  </tr>
 </table>
 <br>
+</table>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:50faaa,100:fa50e3&height=120&section=footer"/>
 <br>
-
-
-</table>
 
 <!---
 Kraken-Mx/Kraken-Mx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
