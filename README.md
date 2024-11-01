@@ -9,8 +9,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:50faaa,100:fa50e3&height=120&section=footer"/>
--->
+
 <img width=100% src="space2.jpg"/>
 
 ####
@@ -179,6 +178,10 @@
  </tr>
 </table>
 <br>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:50faaa,100:fa50e3&height=120&section=footer"/>
+<br>
+
+
 </table>
 
 <!---
