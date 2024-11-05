@@ -13,7 +13,8 @@
 <div class="container">
   <!--<img src="img_5terre_wide.jpg" alt="Cinque Terre" width="1000" height="300">-->
   <img width=100% src="space2.jpg"/>
-  <div class="topleft">Top Left</div>
+  <!--<div class="topleft">Top Left</div>
+  -->
 </div>
 
 ####
