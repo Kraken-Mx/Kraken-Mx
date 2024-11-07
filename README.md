@@ -1,5 +1,3 @@
-<img width=100% src="release-radar-sept24.png"/>
-
 - 😎 Hey guys!!! I’m @Kraken-Mx 😎 
 - 👀 I’m interested in AI, machine learning & deep learning. 
 - 🌱 I’m currently learning JavaScript frameworks, especially Vue.js & React.js.
@@ -11,10 +9,8 @@
 -->
 
 <div class="container">
-  <!--<img src="img_5terre_wide.jpg" alt="Cinque Terre" width="1000" height="300">-->
   <img width=100% src="space2.jpg"/>
-  <!--<div class="topleft">Top Left</div>
-  -->
+  <div class="topleft">Top Left</div>
 </div>
 
 ####
@@ -140,7 +136,6 @@
       <br>jQuery
     </td>
   </tr>
-
   <tr>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" />
