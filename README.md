@@ -9,7 +9,7 @@
 -->
 
 <div class="container">
-  <img width=100% src="space3.jpg"/>
+  <img width=100% src="space3.png"/>
   <div class="topleft">Top Left</div>
 </div>
 
