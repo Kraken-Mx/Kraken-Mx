@@ -10,11 +10,8 @@
 
 ####
 <div class="container">
-  <!--<img width=100% src="space2.jpg"/>
-  <div class="topleft">Top Left</div>-->
-  <div class="topleft">Top Left<img width=100% src="space2.jpg"/></div>
+  <img width=100% src="space2.jpg"/>
 </div>
-
 ####
 <!--
 <div class="card-body">
