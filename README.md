@@ -54,7 +54,7 @@
       </div>
     </div>
    --> 
-<!--
+
 ####
 <table style="overflow-x:auto;">
 <div style="display: flex; align-items: flex-start; align: center">
@@ -179,7 +179,6 @@
 </table>
 <br>
 </table>
--->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:5DFFFF,100:fa50e3&height=120&section=footer"/>
 <br>
